@@ -54,9 +54,3 @@ greet('Basel', 'Abdou');
 
 // Calculate a Value
 
-function square(number) {
-    return number * number;
-}
-
-console.log(square(2)); //Two Function Calls
-
