@@ -1,0 +1,12 @@
+body {
+    height: 3000px;
+}
+* {
+    box-sizing: border-box;
+  }
+[class *="col"] {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: #4173a5f6;
+    color: #fff;
+}

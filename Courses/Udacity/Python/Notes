@@ -1,0 +1,61 @@
+strip() :
+The strip() method removes any whitespace from the beginning or the end:
+
+a = " Hello, World! "
+print(a.strip()) # returns "Hello, World!"
+---------------------------------------------------------------------------------------------------------
+replace() :
+The replace() method replaces a string with another string:
+
+a = "Hello, World!"
+print(a.replace("H", "J"))
+----------------------------------------------------------------------------------------------------------
+append() :
+To add an item to the end of the list, use the append() method:
+
+Using the append() method to append an item:
+
+thislist = ["apple", "banana", "cherry"]
+thislist.append("orange")
+print(thislist)
+----------------------------------------------------------------------------------------------------------
+Make a copy of a list with the copy() method:
+copy()
+thislist = ["apple", "banana", "cherry"]
+mylist = thislist.copy()
+print(mylist)
+----------------------------------------------------------------------------------------------------------
+insert() :
+Insert the value "orange" as the second element of the fruit list:
+
+fruits = ['apple', 'banana', 'cherry']
+
+fruits.insert(1, "orange")
+----------------------------------------------------------------------------------------------------------
+List is a collection which is ordered and changeable. Allows duplicate members.
+Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+Set is a collection which is unordered and unindexed. No duplicate members.
+Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
+
+Once a set is created, you cannot change its items, but you can add new items.
+
+To add one item to a set use the add() method.
+
+To add more than one item to a set use the update() method.
+----------------------------------------------------------------------------------------------------------
+The popitem() method removes the last inserted item (in versions before 3.7, a random item is removed instead):
+___________________________________________________________________________________________________
+
+#class
+
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    def pout(self):
+        print(f"Hello my name is {self.name} and i am {self.age}")
+
+p1 = Person("John", 36)
+p1.age = 22
+p1.pout()

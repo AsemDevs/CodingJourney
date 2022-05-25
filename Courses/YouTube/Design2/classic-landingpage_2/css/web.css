@@ -1,0 +1,113 @@
+/* Start Global */
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* End Global */
+
+/* Start Nav Bar */
+
+.navbar {
+    font-size: 16px;
+    color: #fff;
+    position: relative;
+    z-index: 2;
+    height: 0;
+}
+
+.navbar .brand {
+    float: left;
+    width: 40%;
+    text-transform: uppercase;
+}
+
+.navbar .links {
+    float: left;
+    font-weight: bold;
+    width: 60%;
+    margin-top:20px
+}
+
+.navbar .links li {
+    display: inline-block;
+    padding: 10px 0;
+    margin: 0 10px;
+    border-bottom: 2px solid transparent;
+    text-transform: uppercase;
+}
+
+.navbar .links li.active,
+.navbar .links li:hover {
+    color: #1abc9c;
+    border-bottom: 2px solid #1abc9c;
+}
+/* End Nav Bar */
+
+/* Start Header */
+
+.header {
+    background: url('../images/tronto.jpg');
+    position: relative;
+}
+
+.header .overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    position:absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+.header .bx-wrapper {
+    height: 100%;
+    background: none;
+    border: 0;
+
+}
+.header .bx-viewport {
+    box-shadow:none;
+    height: 100% !important;
+    text-align: center;
+}
+
+.header .slider {
+    height: 100%;
+}
+
+.header .bx-viewport .slider div {
+    color: #fff;
+    height: 100px;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* End Header */
+
+/* Start My Framework */
+.clearfix {
+    clear:both;
+}
+/* End My Framework */
