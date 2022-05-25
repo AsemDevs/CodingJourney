@@ -22,7 +22,17 @@ const interestRate = 4;
 * Undefined
 * null
 
-## Switch Statements
+## Expressions and operators
+
+### Ternary Operator
+  
+  ```js
+  let x = 5;
+  let y = 10;
+  let z = x < y ? x : y;
+  ```
+
+### Switch Statements
 
 ```js
 switch(expression) {

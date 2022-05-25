@@ -4,7 +4,7 @@
 
 To Learn            | Before        | Note          | Progress                              | Resource
 --------------------|---------------|---------------|---------------------------------------|-----------------------
- [ ] JS Advanced    | 30/02/2022    | 2 hours a day |                                       | [Js Advanced](#Js-Advanced)
+ [ ] JS             | 30/02/2022    | 2 hours a day |                                       | [Js](#JavaScript)
  [ ] JSON           | 30/02/2022    | 2 hours a day |                                       |
  [ ] Ajax           | 30/02/2022    | 2 hours a day |                                       |
  [ ] DOM            | 5/03/2022     | 2 hours a day |                                       |
@@ -39,6 +39,8 @@ To Learn            | Before        | Note          | Progress                  
   - [ ] [Js Advanced](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT)
 - Traversy Media
   - [ ] [JavaScript Cardio](https://www.youtube.com/watch?v=M2bJBuaOeOQ)
+- Udemy
+  - [ ] [The complete javascript course](https://www.udemy.com/course/the-complete-javascript-course)
 
 ### Laravel
 
@@ -50,16 +52,6 @@ To Learn            | Before        | Note          | Progress                  
 - [ ] [PHP Elzero Channel](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
 - [ ] [php for complete beginners includes msql object oriented](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented)
 - [ ] [PHP Book](https://github.com/AsemDevs/success/blob/8ea1f97ba2c822c0a127aacdd3f249ceebdb2d7d/Programming/Programming%20Books/PHPNotesForProfessionals.pdf)
-
-------------------;
-
-### Javascript Courses and Resources
-
-- [ ] [The complete javascript course](https://www.udemy.com/course/the-complete-javascript-course)
-- [ ] [Javascript Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT)
-- [ ] [Javascript Book](https://github.com/AsemDevs/success/blob/e74e482c5f52fdd9e5ee49d40c74290b30e0e42e/Programming/Programming%20Books/JavaScriptNotesForProfessionals.pdf)
-
-------------------;
 
 ### Web Development and Design Courses and Resources
 
