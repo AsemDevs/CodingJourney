@@ -4,24 +4,24 @@
 
 To Learn            | Before        | Note          | Progress                              | Resource
 --------------------|---------------|---------------|---------------------------------------|-----------------------
- [ ] JS             | 30/02/2022    | 2 hours a day |                                       | [Js](#JavaScript)
- [ ] JSON           | 30/02/2022    | 2 hours a day |                                       |
- [ ] Ajax           | 30/02/2022    | 2 hours a day |                                       |
- [ ] DOM            | 5/03/2022     | 2 hours a day |                                       |
- [ ] DevOps         | 5/03/2022     | 2 hours a day |                                       |
- [ ] Typescrıpt     | 20/03/2022    | 2 hours a day |                                       |
- [ ] Node Js        | 30/03/2022    | 2 hours a day |                                       |
- [ ] Angular Js     | 10/04/2022    | 2 hours a day |                                       |
- [ ] PHP            | 20/2/2022     | 2 hours a day | [48%](https://progress-bar.dev/48)    | [PHP Elzero Channel](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
- [ ] Laravel        | 30/02/2022    | 2 hours a day |                                       | [Laravel](#laravel)
- [ ] API            | 10/03/2022    | 2 hours a day |                                       |
- [ ] MySQL          | 20/03/2022    | 2 hours a day |                                       |
- [ ] React          | 20/04/2022    | 2 hours a day |                                       |
- [ ] React Native   | 30/04/2022    | 2 hours a day |                                       |
- [ ] Linux          | 05/05/2022    | 2 hours a day |                                       |
- [ ] Ecommerce      | 20/05/2022    | 2 hours a day |                                       | [Ecommerce shop](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxdiBh6J62wOzEnvC4CNuFU)
- [x] Bootstrap      | 21/02/2022    | 2 hours a day | [100%](https://progress-bar.dev/100)  | [Bootstrap](#Bootstrap)
- [ ] Docker         | 12/04/2022    | 4 hours       | [50%](https://progress-bar.dev/50)    |
+JS                  | 30/02/2022    | 2 hours a day |                                       | [Js](#JavaScript)
+JSON                | 30/02/2022    | 2 hours a day |                                       |
+Ajax                | 30/02/2022    | 2 hours a day |                                       |
+DOM                 | 5/03/2022     | 2 hours a day |                                       |
+DevOps              | 5/03/2022     | 2 hours a day |                                       |
+Typescrıpt          | 20/03/2022    | 2 hours a day |                                       |
+Node Js             | 30/03/2022    | 2 hours a day |                                       |
+Angular Js          | 10/04/2022    | 2 hours a day |                                       |
+PHP                 | 20/2/2022     | 2 hours a day | [48%](https://progress-bar.dev/48)    | [PHP Elzero Channel](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
+Laravel             | 30/02/2022    | 2 hours a day |                                       | [Laravel](#laravel)
+API                 | 10/03/2022    | 2 hours a day |                                       |
+MySQL               | 20/03/2022    | 2 hours a day |                                       |
+React               | 20/04/2022    | 2 hours a day |                                       |
+React Native        | 30/04/2022    | 2 hours a day |                                       |
+Linux               | 05/05/2022    | 2 hours a day |                                       |
+Ecommerce           | 20/05/2022    | 2 hours a day |                                       | [Ecommerce shop](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxdiBh6J62wOzEnvC4CNuFU)
+Bootstrap           | 21/02/2022    | 2 hours a day | [100%](https://progress-bar.dev/100)  | [Bootstrap](#Bootstrap)
+Docker              | 12/04/2022    | 4 hours       | [50%](https://progress-bar.dev/50)    |
 
 ## Courses to Learn
 
